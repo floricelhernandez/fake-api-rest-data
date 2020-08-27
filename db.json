@@ -1,5 +1,5 @@
 {
-  "unidad": [
+  "unidades": [
     {
       "id": 1,
       "titulo": "T’an tï yokot'an",
@@ -74,7 +74,7 @@
     }
   ],
   
-  "leccion": [
+  "lecciones": [
     {
       "id": "1",
       "unidad_id": "1",
