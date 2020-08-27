@@ -76,40 +76,40 @@
   
   "lecciones": [
     {
-      "id": "1",
-      "unidad_id": "1",
+      "id": 1,
+      "unidad_id": 1,
       "titulo": "Familia y amigos",
       "descripcion": "Descubre como saludar a tu familia y amigos",
-      "avance": "3",
-      "nivel": "1",
-      "orden": "1"
+      "avance": 3,
+      "nivel": 1,
+      "orden": 1
     },
     {
-      "id": "2",
-      "unidad_id": "1",
+      "id": 2,
+      "unidad_id": 1,
       "titulo": "Hechando cuentas",
       "descripcion": "Aprende a contar animales, personas u objetos",
-      "avance": "0",
-      "nivel": "1",
-      "orden": "2"
+      "avance": 0,
+      "nivel": 1,
+      "orden": 2
     },
     {
-      "id": "3",
-      "unidad_id": "2",
+      "id": 3,
+      "unidad_id": 2,
       "titulo": "Lección Uno",
       "descripcion": "Descubre como...",
-      "avance": "0",
-      "nivel": "1",
-      "orden": "1"
+      "avance": 0,
+      "nivel": 1,
+      "orden": 1
     },
     {
-      "id": "4",
-      "unidad_id": "1",
+      "id": 4,
+      "unidad_id": 4,
       "titulo": "Lección Uno",
       "descripcion": "Descubre como...",
-      "avance": "0",
-      "nivel": "2",
-      "orden": "3"
+      "avance": 0,
+      "nivel": 2,
+      "orden": 3
     }
   ]
 
