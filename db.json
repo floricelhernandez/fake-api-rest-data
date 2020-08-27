@@ -11,7 +11,7 @@
     {
       "id": 2,
       "titulo": "T'an 1",
-      "descripcion": "Aprende acerca de la comunidad",
+      "descripcion": "Practica tu vocabulario",
       "lecciones_completadas": 3,
       "nivel": 1,
       "orden": 2
@@ -35,7 +35,7 @@
     {
       "id": 5,
       "titulo": "T'an 2",
-      "descripcion": "Aprende acerca de la comunidad",
+      "descripcion": "Practica tu vocabulario",
       "lecciones_completadas": 3,
       "nivel": 2,
       "orden": 3
@@ -51,7 +51,7 @@
     {
       "id": 7,
       "titulo": "T'an 3",
-      "descripcion": "Aprende acerca de la comunidad",
+      "descripcion": "Practica tu vocabulario",
       "lecciones_completadas": 3,
       "nivel": 3,
       "orden": 1
@@ -67,7 +67,7 @@
     {
       "id": 9,
       "titulo": "T'an 4",
-      "descripcion": "Aprende acerca de la comunidad",
+      "descripcion": "Practica tu vocabulario",
       "lecciones_completadas": 3,
       "nivel": 3,
       "orden": 2
