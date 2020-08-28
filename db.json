@@ -124,7 +124,7 @@
   "vocabulario": [
     {
       "id": 1,
-      "leccion_id"; 1,
+      "leccion_id": 1,
       "yokotan": "K'aba",
       "traduccion": "Nombre",
       "clasificacion": "Palabra",
@@ -135,7 +135,7 @@
     },
     {
       "id": 2,
-      "leccion_id"; 1,
+      "leccion_id": 1,
       "yokotan": "T'an",
       "traduccion": "Lengua",
       "clasificacion": "Palabra",
@@ -146,7 +146,7 @@
     },
     {
       "id": 3,
-      "leccion_id"; 1,
+      "leccion_id": 1,
       "yokotan": "Yoko",
       "traduccion": "Verdadero",
       "clasificacion": "Palabra",
@@ -157,7 +157,7 @@
     },
     {
       "id": 4,
-      "leccion_id"; 1,
+      "leccion_id": 1,
       "yokotan": "Yinik",
       "traduccion": "Hombre",
       "clasificacion": "Personas",
@@ -168,7 +168,7 @@
     },
     {
       "id": 5,
-      "leccion_id"; 1,
+      "leccion_id": 1,
       "yokotan": "Ixik",
       "traduccion": "Mujer",
       "clasificacion": "Personas",
@@ -179,7 +179,7 @@
     },
     {
       "id": 6,
-      "leccion_id"; 1,
+      "leccion_id": 1,
       "yokotan": "No'on",
       "traduccion": "Yo",
       "clasificacion": "Pronombres personales",
@@ -190,7 +190,7 @@
     },
     {
       "id": 7,
-      "leccion_id"; 1,
+      "leccion_id": 1,
       "yokotan": "Ane",
       "traduccion": "Tú",
       "clasificacion": "Pronombres personales",
@@ -201,7 +201,7 @@
     },
     {
       "id": 8,
-      "leccion_id"; 1,
+      "leccion_id": 1,
       "yokotan": "Une",
       "traduccion": "El",
       "clasificacion": "Pronombres personales",
@@ -212,7 +212,7 @@
     },
     {
       "id": 9,
-      "leccion_id"; 1,
+      "leccion_id": 1,
       "yokotan": "No'onla",
       "traduccion": "Nosotros",
       "clasificacion": "Pronombres personales",
@@ -223,7 +223,7 @@
     },
     {
       "id": 10,
-      "leccion_id"; 1,
+      "leccion_id": 1,
       "yokotan": "Anela",
       "traduccion": "Ustedes",
       "clasificacion": "Pronombres personales",
@@ -234,7 +234,7 @@
     },
     {
       "id": 11,
-      "leccion_id"; 1,
+      "leccion_id": 1,
       "yokotan": "Unejob",
       "traduccion": "Ellos",
       "clasificacion": "Pronombres personales",
