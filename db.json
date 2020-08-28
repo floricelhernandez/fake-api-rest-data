@@ -120,6 +120,129 @@
       "nivel": 2,
       "orden": 3
     }
+  ],
+  "vocabulario": [
+    {
+      "id": 1,
+      "leccion_id"; 1,
+      "yokotan": "K'aba",
+      "traduccion": "Nombre",
+      "clasificacion": "Palabra",
+      "explicacion": "",
+      "ejemplo": "Kä k'aba es Pechel",
+      "imagen": "",
+      "audio": ""
+    },
+    {
+      "id": 2,
+      "leccion_id"; 1,
+      "yokotan": "T'an",
+      "traduccion": "Lengua",
+      "clasificacion": "Palabra",
+      "explicacion": "",
+      "ejemplo": "T'an a Yokot'an =  Lengua Yokot'an",
+      "imagen": "",
+      "audio": ""
+    },
+    {
+      "id": 3,
+      "leccion_id"; 1,
+      "yokotan": "Yoko",
+      "traduccion": "Verdadero",
+      "clasificacion": "Palabra",
+      "explicacion": "Verdadero/Verdadera",
+      "ejemplo": "Yokot'an =  Lengua verdadera",
+      "imagen": "",
+      "audio": ""
+    },
+    {
+      "id": 4,
+      "leccion_id"; 1,
+      "yokotan": "Yinik",
+      "traduccion": "Hombre",
+      "clasificacion": "Personas",
+      "explicacion": "",
+      "ejemplo": "Jini yinik = Ese hombre",
+      "imagen": "https://pixabay.com/es/photos/hombre-masculina-ni%C3%B1o-persona-461195/",
+      "audio": ""
+    },
+    {
+      "id": 5,
+      "leccion_id"; 1,
+      "yokotan": "Ixik",
+      "traduccion": "Mujer",
+      "clasificacion": "Personas",
+      "explicacion": "",
+      "ejemplo": "Jini ixik = Esa mujer",
+      "imagen": "https://pixabay.com/es/photos/mujer-muy-chica-cabello-hermosa-837156/",
+      "audio": ""
+    },
+    {
+      "id": 6,
+      "leccion_id"; 1,
+      "yokotan": "No'on",
+      "traduccion": "Yo",
+      "clasificacion": "Pronombres personales",
+      "explicacion": "",
+      "ejemplo": "¿Caxca une u chen ganá? - ¡No'on! = ¿Quién ganó? - ¡Yo!",
+      "imagen": "",
+      "audio": ""
+    },
+    {
+      "id": 7,
+      "leccion_id"; 1,
+      "yokotan": "Ane",
+      "traduccion": "Tú",
+      "clasificacion": "Pronombres personales",
+      "explicacion": "",
+      "ejemplo": "¿Caxca une u chen ganá? - ¡Ane! = ¿Quién ganó? - ¡Tú!",
+      "imagen": "",
+      "audio": ""
+    },
+    {
+      "id": 8,
+      "leccion_id"; 1,
+      "yokotan": "Une",
+      "traduccion": "El",
+      "clasificacion": "Pronombres personales",
+      "explicacion": "Se aplica indistintamente para El/Ella",
+      "ejemplo": "¿Caxca une u chen ganá? - ¡Une! = ¿Quién ganó? - ¡El!",
+      "imagen": "",
+      "audio": ""
+    },
+    {
+      "id": 9,
+      "leccion_id"; 1,
+      "yokotan": "No'onla",
+      "traduccion": "Nosotros",
+      "clasificacion": "Pronombres personales",
+      "explicacion": "Se aplica indistintamente para Nosotros/Nosotras",
+      "ejemplo": "¿Caxca une u chen ganá? - ¡No'onla! = ¿Quién ganó? - ¡Nosotros!",
+      "imagen": "",
+      "audio": ""
+    },
+    {
+      "id": 10,
+      "leccion_id"; 1,
+      "yokotan": "Anela",
+      "traduccion": "Ustedes",
+      "clasificacion": "Pronombres personales",
+      "explicacion": "",
+      "ejemplo": "¿Caxca une u chen ganá? - ¡Anela! = ¿Quién ganó? - ¡Ustedes!",
+      "imagen": "",
+      "audio": ""
+    },
+    {
+      "id": 11,
+      "leccion_id"; 1,
+      "yokotan": "Unejob",
+      "traduccion": "Ellos",
+      "clasificacion": "Pronombres personales",
+      "explicacion": "Se usa indistintamente para Ellos/Ellas",
+      "ejemplo": "¿Caxca une u chen ganá? - ¡Unejob! = ¿Quién ganó? - ¡Ellos!",
+      "imagen": "",
+      "audio": ""
+    }
   ]
 
 }
