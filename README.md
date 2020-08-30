@@ -1,5 +1,5 @@
 # unidadesdata
-Json para alojar unidades
+Json para alojar datos de prueba.
 Este repositorio es para acceder rápidamente a servicios REST fake para testing rápido del desarrollo de prototipos.
 
 Los servicios rest son provistos por https://my-json-server.typicode.com/
