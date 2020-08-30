@@ -1,4 +1,4 @@
-# unidadesdata
+# Fake data
 Json para alojar datos de prueba.
 Este repositorio es para acceder rápidamente a servicios REST fake para testing rápido del desarrollo de prototipos.
 
