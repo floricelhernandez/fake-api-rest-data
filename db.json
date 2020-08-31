@@ -125,10 +125,12 @@
       "orden": 3
     }
   ],
-  "vocabulario": [
+  "actividades": [
     {
       "id": 1,
       "leccion_id": 1,
+      "tipo": "vocabulario",
+      "en_yokotan": true,
       "yokotan": "K'aba",
       "traduccion": "Nombre",
       "clasificacion": "Palabra",
@@ -140,6 +142,8 @@
     {
       "id": 2,
       "leccion_id": 1,
+      "tipo": "vocabulario",
+      "en_yokotan": true,
       "yokotan": "T'an",
       "traduccion": "Lengua",
       "clasificacion": "Palabra",
@@ -151,6 +155,8 @@
     {
       "id": 3,
       "leccion_id": 1,
+      "tipo": "vocabulario",
+      "en_yokotan": true,
       "yokotan": "Yoko",
       "traduccion": "Verdadero",
       "clasificacion": "Palabra",
@@ -162,6 +168,8 @@
     {
       "id": 4,
       "leccion_id": 1,
+      "tipo": "vocabulario",
+      "en_yokotan": true,
       "yokotan": "Yinik",
       "traduccion": "Hombre",
       "clasificacion": "Personas",
@@ -173,6 +181,8 @@
     {
       "id": 5,
       "leccion_id": 1,
+      "tipo": "vocabulario",
+      "en_yokotan": true,
       "yokotan": "Ixik",
       "traduccion": "Mujer",
       "clasificacion": "Personas",
@@ -184,6 +194,8 @@
     {
       "id": 6,
       "leccion_id": 1,
+      "tipo": "vocabulario",
+      "en_yokotan": true,
       "yokotan": "No'on",
       "traduccion": "Yo",
       "clasificacion": "Pronombres personales",
@@ -195,6 +207,8 @@
     {
       "id": 7,
       "leccion_id": 1,
+      "tipo": "vocabulario",
+      "en_yokotan": true,
       "yokotan": "Ane",
       "traduccion": "Tú",
       "clasificacion": "Pronombres personales",
@@ -206,6 +220,8 @@
     {
       "id": 8,
       "leccion_id": 1,
+      "tipo": "vocabulario",
+      "en_yokotan": true,
       "yokotan": "Une",
       "traduccion": "El",
       "clasificacion": "Pronombres personales",
@@ -217,6 +233,8 @@
     {
       "id": 9,
       "leccion_id": 1,
+      "tipo": "vocabulario",
+      "en_yokotan": true,
       "yokotan": "No'onla",
       "traduccion": "Nosotros",
       "clasificacion": "Pronombres personales",
@@ -228,6 +246,8 @@
     {
       "id": 10,
       "leccion_id": 1,
+      "tipo": "vocabulario",
+      "en_yokotan": true,
       "yokotan": "Anela",
       "traduccion": "Ustedes",
       "clasificacion": "Pronombres personales",
@@ -239,6 +259,8 @@
     {
       "id": 11,
       "leccion_id": 1,
+      "tipo": "vocabulario",
+      "en_yokotan": true,
       "yokotan": "Unejob",
       "traduccion": "Ellos",
       "clasificacion": "Pronombres personales",
@@ -246,6 +268,47 @@
       "ejemplo": "¿Caxca une u chen ganá? - ¡Unejob! = ¿Quién ganó? - ¡Ellos!",
       "imagen": "",
       "audio": ""
+    },
+    {
+      "id": 11,
+      "leccion_id": 2,
+      "tipo": "vocabulario",
+      "en_yokotan": true,
+      "yokotan": "Unejob",
+      "traduccion": "Ellos",
+      "clasificacion": "Pronombres personales",
+      "explicacion": "Se usa indistintamente para Ellos/Ellas",
+      "ejemplo": "¿Caxca une u chen ganá? - ¡Unejob! = ¿Quién ganó? - ¡Ellos!",
+      "imagen": "",
+      "audio": ""
+    },
+    {
+      "id": 11,
+      "leccion_id": 2,
+      "tipo": "selecciona_para_traducir",
+      "en_yokotan": true,
+      "yokotan": "Unejob",
+      "traduccion": "Ellos",
+      "clasificacion": "Pronombres personales",
+      "explicacion": "Se usa indistintamente para Ellos/Ellas",
+      "ejemplo": "¿Caxca une u chen ganá? - ¡Unejob! = ¿Quién ganó? - ¡Ellos!",
+      "imagen": "",
+      "audio": "",
+      "opciones": [
+        {
+          "id": 1,
+          "texto": "Texto 1"
+        },
+        {
+          "id": 2,
+          "texto": "Texto 2"
+        },
+        {
+          "id": 3,
+          "texto": "Unejob"
+        }
+      ],
+      "t
     }
   ]
 
