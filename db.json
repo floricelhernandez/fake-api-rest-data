@@ -99,7 +99,7 @@
       "unidad_id": 1,
       "titulo": "Hechando cuentas",
       "descripcion": "Aprende a contar animales, personas u objetos",
-      "descripcion_larga":"<p></p>,
+      "descripcion_larga":"<p></p>",
       "avance": 0,
       "nivel": 1,
       "orden": 2
@@ -109,7 +109,7 @@
       "unidad_id": 2,
       "titulo": "Lección Uno",
       "descripcion": "Descubre como...",
-      "descripcion_larga":"<p></p>,
+      "descripcion_larga":"<p></p>",
       "avance": 0,
       "nivel": 1,
       "orden": 1
@@ -119,7 +119,7 @@
       "unidad_id": 4,
       "titulo": "Lección Uno",
       "descripcion": "Descubre como...",
-      "descripcion_larga":"<p></p>,
+      "descripcion_larga":"<p></p>",
       "avance": 0,
       "nivel": 2,
       "orden": 3
