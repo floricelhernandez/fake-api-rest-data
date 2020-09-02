@@ -7,7 +7,8 @@
       "lecciones_completadas": 4,
       "nivel": 1,
       "orden": 1,
-      "total_lecciones": 9
+      "total_lecciones": 9,
+      "color": "0xFFFFF9EC"
     },
     {
       "id": 2,
@@ -16,7 +17,8 @@
       "lecciones_completadas": 3,
       "nivel": 1,
       "orden": 2,
-      "total_lecciones": 9
+      "total_lecciones": 9,
+       "color": "0xFFFFE4C7"
     },
     {
       "id": 3,
@@ -25,7 +27,8 @@
       "lecciones_completadas": 5,
       "nivel": 2,
       "orden": 1,
-      "total_lecciones": 9
+      "total_lecciones": 9,
+      "color": "0xFFF9BE7C"
     },
     {
       "id": 4,
@@ -34,7 +37,8 @@
       "lecciones_completadas": 3,
       "nivel": 2,
       "orden": 2,
-      "total_lecciones": 9
+      "total_lecciones": 9,
+      "color": "0xFFFED4D6"
     },
     {
       "id": 5,
@@ -43,7 +47,8 @@
       "lecciones_completadas": 1,
       "nivel": 2,
       "orden": 3,
-      "total_lecciones": 9
+      "total_lecciones": 9,
+       "color": "0xFFE46472"
     },
     {
       "id": 6,
@@ -52,7 +57,8 @@
       "lecciones_completadas": 5,
       "nivel": 2,
       "orden": 4,
-      "total_lecciones": 9
+      "total_lecciones": 9,
+      "color": "0xFFD5E4FE"
     },
     {
       "id": 7,
@@ -61,7 +67,8 @@
       "lecciones_completadas": 1,
       "nivel": 3,
       "orden": 1,
-      "total_lecciones": 9
+      "total_lecciones": 9,
+      "color": "0xFFD9E6DC"
     },
     {
       "id": 8,
@@ -70,7 +77,8 @@
       "lecciones_completadas": 0,
       "nivel": 3,
       "orden": 2,
-      "total_lecciones": 9
+      "total_lecciones": 9,
+      "color": "0xFF309397"
     },
     {
       "id": 9,
@@ -79,7 +87,8 @@
       "lecciones_completadas": 0,
       "nivel": 3,
       "orden": 2,
-      "total_lecciones": 9
+      "total_lecciones": 9,
+      "color": "0xFF0D253F"
     }
   ],
   
