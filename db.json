@@ -108,7 +108,7 @@
       "unidad_id": 1,
       "titulo": "Hechando cuentas",
       "descripcion": "Aprende a contar animales, personas u objetos",
-      "descripcion_larga":"<p></p>",
+      "descripcion_larga":"<p>En esta lecci&oacute;n aprender&aacute;s a contar <strong>Yokot'an:</strong>&nbsp;</p><ol><li>Personas</li><li>Animales</li><li>Cosas</li></ol>",
       "avance": 0,
       "nivel": 1,
       "orden": 2
@@ -283,11 +283,11 @@
       "leccion_id": 2,
       "tipo": "vocabulario",
       "en_yokotan": true,
-      "yokotan": "Unejob",
-      "traduccion": "Ellos",
-      "clasificacion": "Pronombres personales",
-      "explicacion": "Se usa indistintamente para Ellos/Ellas",
-      "ejemplo": "¿Caxca une u chen ganá? - ¡Unejob! = ¿Quién ganó? - ¡Ellos!",
+      "yokotan": "Cha p'e",
+      "traduccion": "Dos",
+      "clasificacion": "Número",
+      "explicacion": "Para contar",
+      "ejemplo": "Cha p'e píyo  => Dos pollos",
       "imagen": "",
       "audio": "",
       "opciones": []
@@ -297,25 +297,29 @@
       "leccion_id": 2,
       "tipo": "selecciona_para_traducir",
       "en_yokotan": true,
-      "yokotan": "Unejob",
-      "traduccion": "Ellos",
-      "clasificacion": "Pronombres personales",
-      "explicacion": "Se usa indistintamente para Ellos/Ellas",
-      "ejemplo": "¿Caxca une u chen ganá? - ¡Unejob! = ¿Quién ganó? - ¡Ellos!",
+      "yokotan": "Un p'e",
+      "traduccion": "Uno",
+      "clasificacion": "Número",
+      "explicacion": "Se usa indistintamente para contar",
+      "ejemplo": "Un p'e píyo",
       "imagen": "",
       "audio": "",
       "opciones": [
         {
           "id": 1,
-          "texto": "Texto 1"
+          "texto": "Uno"
         },
         {
           "id": 2,
-          "texto": "Texto 2"
+          "texto": "Dos"
         },
         {
           "id": 3,
-          "texto": "Ellos"
+          "texto": "Once"
+        },
+        {
+          "id": 4,
+          "texto": "Diez"
         }
       ]
     }
