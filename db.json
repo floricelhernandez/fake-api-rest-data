@@ -295,7 +295,7 @@
     {
       "id": 11,
       "leccion_id": 2,
-      "tipo": "selecciona_para_traducir",
+      "tipo": "traduce_seleccionando_opcion",
       "en_yokotan": true,
       "yokotan": "Un p'e",
       "traduccion": "Uno",
@@ -322,7 +322,21 @@
           "texto": "Diez"
         }
       ]
-    }
+    },
+    {
+      "id": 12,
+      "leccion_id": 2,
+      "tipo": "traduce_escribiendo",
+      "en_yokotan": false,
+      "yokotan": "Tsimim",
+      "traduccion": "Caballo",
+      "clasificacion": "Sustantivo",
+      "explicacion": "Para contar",
+      "ejemplo": "",
+      "imagen": "",
+      "audio": "",
+      "opciones": []
+    },
   ]
 
 }
