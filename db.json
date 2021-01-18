@@ -3,7 +3,7 @@
  
   "idFlow": 1,
   "order": 1,
-  "dataInput": "data",
+  "dataInput": "SV_VAL_CONSUMO_INF",
   "action": "LOAD",
   "outputName": "consumos",
   "filter": "",
