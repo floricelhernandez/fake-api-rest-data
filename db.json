@@ -1,4 +1,59 @@
 {
+  "steps": [{
+ 
+  "idFlow": 1,
+  "order": 1,
+  "dataInput": "data",
+  "action": "LOAD",
+  "outputName": "consumos",
+  "filter": "",
+  "instruction": "",
+   "extraParameters": [
+      {
+        "id": 1,
+        "name": "format",
+        "value": "csv",
+        "description": ""
+      },
+      {
+        "id": 2,
+        "name": "mode",
+        "value": "",
+        "description": ""
+      },
+      {
+        "id": 3,
+        "name": "header",
+        "value": true,
+        "description": ""
+      },
+      {
+        "id": 4,
+        "name": "sep",
+        "value": ",",
+        "description": ""
+      },
+      {
+        "id": 5,
+        "name": "path",
+        "value": "src/test/resources/",
+        "description": ""
+      }
+  ]
+},
+{
+ 
+  "idFlow": 2,
+  "order": 2,
+  "dataInput": "consumos",
+  "action": "select",
+  "outputName": "saldos_disponibles",
+  "filter": "",
+  "instruction": "IdPersona as id | Codigo| LimCredito as limite_credito| SaldoRevVal as gastado| LimCredito -  SaldoRevVal as disponible"
+  }
+]
+  ,
+  
   "unidades": [
     {
       "id": 1,
