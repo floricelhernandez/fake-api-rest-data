@@ -113,36 +113,7 @@
   ,
   
   "unidades": [
-    {
-      "id": 4,
-      "titulo": "Ka u yilkan",
-      "descripcion": "Descubre y practica con refranes",
-      "lecciones_completadas": 3,
-      "nivel": 2,
-      "orden": 2,
-      "total_lecciones": 9,
-      "color": "0xFFE46472"
-    },
-    {
-      "id": 5,
-      "titulo": "T'an 2",
-      "descripcion": "Practica tu vocabulario",
-      "lecciones_completadas": 1,
-      "nivel": 2,
-      "orden": 3,
-      "total_lecciones": 9,
-       "color": "0xFFE46472"
-    },
-    {
-      "id": 6,
-      "titulo": "Yi' nat'an",
-      "descripcion": "Descubre y practica con adivinanzas",
-      "lecciones_completadas": 5,
-      "nivel": 2,
-      "orden": 4,
-      "total_lecciones": 9,
-      "color": "0xFFF9BE7C"
-    },
+
     {
       "id": 7,
       "titulo": "T'an 3",
