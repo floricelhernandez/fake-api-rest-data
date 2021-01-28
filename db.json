@@ -1,4 +1,62 @@
 {
+   "stepsDTO":[{
+
+  "stepId": 1,
+  "order": 1,
+  "dataInput": "SV_VAL_CONSUMO_INF",
+  "action": "LOAD",
+  "outputName": "consumos",
+  "filter": "",
+  "instruction": "",
+  "rename": "",
+  "activeStr": "ACTIVO",
+  "extraParameters": [
+    {
+      "paramId": 1,
+      "name": "format",
+      "value": "csv",
+      "description": ""
+    },
+    {
+      "paramId": 2,
+      "name": "mode",
+      "value": "",
+      "description": "",
+      "activeStr": "ACTIVO"
+    },
+    {
+      "paramId": 3,
+      "name": "header",
+      "value": true,
+      "description": ""
+    },
+    {
+      "paramId": 4,
+      "name": "sep",
+      "value": ",",
+      "description": "",
+      "activeStr": "ACTIVO"
+    },
+    {
+      "paramId": 5,
+      "name": "path",
+      "value": "src/test/resources/",
+      "description": "",
+      "activeStr": "ACTIVO"
+    }
+  ]
+},
+  {
+
+    "stepId": 2,
+    "order": 2,
+    "dataInput": "consumos",
+    "action": "select",
+    "outputName": "saldos_disponibles",
+    "filter": "codigo like '1030%'",
+    "instruction": "IdPersona as id | Codigo| LimCredito as limite_credito| SaldoRevVal as gastado| LimCredito -  SaldoRevVal as disponible"
+  }
+],
   "steps": [{
  
   "idFlow": 1,
