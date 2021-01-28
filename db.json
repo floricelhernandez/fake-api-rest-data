@@ -114,36 +114,6 @@
   
   "unidades": [
     {
-      "id": 1,
-      "titulo": "T’an tï yokot'an",
-      "descripcion": "Aprende las bases de la lengua Yokotán",
-      "lecciones_completadas": 4,
-      "nivel": 1,
-      "orden": 1,
-      "total_lecciones": 9,
-      "color": "0xFF309397"
-    },
-    {
-      "id": 2,
-      "titulo": "T'an 1",
-      "descripcion": "Practica tu vocabulario",
-      "lecciones_completadas": 3,
-      "nivel": 1,
-      "orden": 2,
-      "total_lecciones": 9,
-       "color": "0xFF309397"
-    },
-    {
-      "id": 3,
-      "titulo": "Tan Kaj",
-      "descripcion": "Aprende acerca de la comunidad",
-      "lecciones_completadas": 5,
-      "nivel": 2,
-      "orden": 1,
-      "total_lecciones": 9,
-      "color": "0xFF309397"
-    },
-    {
       "id": 4,
       "titulo": "Ka u yilkan",
       "descripcion": "Descubre y practica con refranes",
