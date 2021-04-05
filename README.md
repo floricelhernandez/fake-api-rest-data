@@ -4,5 +4,5 @@ Este repositorio es para acceder rápidamente a servicios REST fake para testing
 
 Los servicios rest son provistos por https://my-json-server.typicode.com/
 
-Ejemplo:       http://my-json-server.typicode.com/pechelhernandez/fake-api-rest-data/lecciones?unidad_id=1?apio=+25?b=6784725301
+Ejemplo:       http://my-json-server.typicode.com/pechelhernandez/fake-api-rest-data/lecciones?unidad_id=1?api-o=+25?b=6784725301
 
